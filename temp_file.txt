@@ -1,2 +1,3 @@
 Hi,
 We are in discussion about git branches.
+here we create new Temp_2 & MERGE this with master.
